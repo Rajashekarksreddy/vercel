@@ -43,7 +43,7 @@ export default function Home() {
                 Built by{' '}
                 <a
                     className="underline hover:opacity-70 transition text-cyan-400"
-                    href="https://github.com/Rajashekarksreddy"
+                    href="https://github.com/Rajashekarksreddy/vercel"
                     target="_blank"
                     rel="noreferrer"
                 >
